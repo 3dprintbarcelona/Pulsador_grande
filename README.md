@@ -13,5 +13,6 @@ Modelo diseñado para imprimir durante la 3D Printing Fest 2019. Más detalles e
 * Bottom layers: 3
 * Tiempo estimado de impresión: entre 5 y 8h según velocidad y altura de capa, prima la robustez en este caso.
 * Los STL están orientados para imprimir sin soportes
+* Cantidad de material PLA necesario: 72 gr (con 1,75 mm equivale a 24,5 m de material)
 
 Modelo diseñado por [Pablo](https://twitter.com/kabuto) para el grupo 3D Print Barcelona.
